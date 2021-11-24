@@ -38,7 +38,7 @@ import numpy as np
 from scipy import linalg
 import torch
 
-from gans.metrics.fid.utils import get_activations, np_to_torch, load_inception
+from fid.utils import get_activations, np_to_torch, load_inception
 
 
 class FIDBackend(enum.Enum):

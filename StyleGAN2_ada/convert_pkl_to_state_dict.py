@@ -6,7 +6,7 @@ import sys
 from pathlib import Path
 
 # from .training.networks import Generator
-from gans.models.StyleGAN2_ada.training.networks import Generator
+from StyleGAN2_ada.training.networks import Generator
 
 
 def main():

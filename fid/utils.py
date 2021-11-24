@@ -3,7 +3,7 @@ import numpy as np
 import torch
 from torch.nn.functional import adaptive_avg_pool2d
 
-from gans.metrics.fid.inception import InceptionV3
+from fid.inception import InceptionV3
 
 
 def np_to_torch(a):
