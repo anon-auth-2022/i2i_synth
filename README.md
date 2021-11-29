@@ -1,4 +1,4 @@
-# This repository contains supplementary code for anonymous submission ``_Mitigating the Data Bottleneck in Unpaired Image-to-Image Translation with Synthetic Imagery_''
+# This repository contains supplementary code for anonymous submission _Mitigating the Data Bottleneck in Unpaired Image-to-Image Translation with Synthetic Imagery_
 
 ## Inference
 
