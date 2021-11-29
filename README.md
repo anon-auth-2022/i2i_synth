@@ -8,7 +8,7 @@ Download a dataset
 
 Download and unpack pretrained models
 
-```wget https://www.dropbox.com/sh/ -O checkpoints.tar && tar -xvf checkpoints.tar && rm checkpoints.tar```
+```wget https://www.dropbox.com/s/gzb4xlcyrn63eu6/checkpoints.tar?dl=0 -O checkpoints.tar && tar -xvf checkpoints.tar && rm checkpoints.tar```
 
 Run ```sampling.ipynb``` for translation examples and synthetic-init samples.
 
